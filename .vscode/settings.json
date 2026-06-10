@@ -1,25 +1,8 @@
 {
   "workbench.colorCustomizations": {
-    // --- BARRE DE STATUT (Bas) ---
-    "statusBar.background": "#2e3c4d",
-    "statusBar.foreground": "#e1e4e8",
-    "statusBarRemote.background": "#2e3c4d", 
+    "statusBarRemote.background": "#2e3c4d",
     "statusBarRemote.foreground": "#e1e4e8",
-
-// --- BARRE DE TITRE / MENU (Haut) ---
-    "titleBar.activeBackground": "#f3f4f6", // Gris très clair
-    "titleBar.activeForeground": "#000000", // Texte noir
-    "titleBar.inactiveBackground": "#f9fafb",
-    "titleBar.inactiveForeground": "#6b7280",
-
-    // --- BARRE LATÉRALE / EXPLORATEUR (Droite ou Gauche) ---
-    "sideBar.background": "#f9fafb",       // Fond blanc cassé / gris subtil
-    "sideBar.foreground": "#000000",       // Noms des fichiers en noir
-    "sideBar.border": "#e5e7eb",           // Ligne de séparation discrète
-
-    // --- BARRE D'ACTIVITÉ (Bande étroite avec les icônes) ---
-    "activityBar.background": "#e5e7eb",   // Gris un poil plus soutenu pour la structure
-    "activityBar.foreground": "#000000",   // Icônes actives en noir
-    "activityBar.inactiveForeground": "#6b7280", // Icônes secondaires
+    "sideBar.background": "#f9fafb",
+    "sideBar.foreground": "#000000"
   }
 }
